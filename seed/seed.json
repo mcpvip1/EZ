@@ -1,0 +1,2581 @@
+{
+  "calc": {
+    "limit": 40000,
+    "commission": 16,
+    "rate": 80
+  },
+  "fighters": [
+    {
+      "no": "1",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "8",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "9",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "10",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "11",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "12",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "00",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "000",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "111",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "222",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "41+",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    },
+    {
+      "no": "3",
+      "name": "",
+      "commission": 15,
+      "rate": 80
+    }
+  ],
+  "owners": [
+    {
+      "no": "1",
+      "name": "",
+      "commission": 14,
+      "rate": 80
+    },
+    {
+      "no": "2",
+      "name": "",
+      "commission": 14,
+      "rate": 80
+    },
+    {
+      "no": "3",
+      "name": "",
+      "commission": 14,
+      "rate": 80
+    },
+    {
+      "no": "4",
+      "name": "",
+      "commission": 14,
+      "rate": 80
+    },
+    {
+      "no": "5",
+      "name": "",
+      "commission": 14,
+      "rate": 80
+    },
+    {
+      "no": "111",
+      "name": "",
+      "commission": 14,
+      "rate": 80
+    }
+  ],
+  "templates": [
+    {
+      "no": 4,
+      "text": "No Break ... "
+    },
+    {
+      "no": 5,
+      "text": "ထိပ္(10)ကြက္"
+    },
+    {
+      "no": 6,
+      "text": "ေနာက္(10)ကြက္"
+    },
+    {
+      "no": 7,
+      "text": "ပါဝါ(10)ကြက္"
+    },
+    {
+      "no": 8,
+      "text": "ဘရိတ္(10)ကြက္"
+    },
+    {
+      "no": 9,
+      "text": "နကၡတ္​(10)ကြက္"
+    },
+    {
+      "no": 10,
+      "text": "(မျဖတ္ခင္)"
+    },
+    {
+      "no": 11,
+      "text": "*Final*"
+    },
+    {
+      "no": 12,
+      "text": "ဘရိတ္မပါ..."
+    },
+    {
+      "no": 13,
+      "text": "ညီအကို(20)ကြက္"
+    },
+    {
+      "no": 14,
+      "text": "ဝယ္လိုက္ေတာ့မယ္ အကို ***"
+    },
+    {
+      "no": 15,
+      "text": "​ေက်းဇူးတင္ပါတယ္​"
+    },
+    {
+      "no": 16,
+      "text": "3.D မက္ေဆ့ မ်ားစစ္ေပးပါ မေရာက္ပါက ျပန္ေျပာပါ ျပန္ပို႔ေပးပါမည္ ျပန္ျပင္ေပးပါမည ္ေက်းဇူးပါ"
+    },
+    {
+      "no": 17,
+      "text": "*Q* Chart No "
+    },
+    {
+      "no": 18,
+      "text": "55..မထြက္မခ်င္း ထိန္းေပးပါ"
+    },
+    {
+      "no": 19,
+      "text": "\"Q\" ( ) OK ???"
+    },
+    {
+      "no": 20,
+      "text": "Hi"
+    },
+    {
+      "no": 21,
+      "text": "Total = "
+    },
+    {
+      "no": 22,
+      "text": "Total=    D=    T=     KQ( )="
+    },
+    {
+      "no": 23,
+      "text": "All Total = "
+    },
+    {
+      "no": 24,
+      "text": "KQ BUY"
+    },
+    {
+      "no": 25,
+      "text": "ထိပ္စည္း ေနာက္ပိတ္"
+    },
+    {
+      "no": 26,
+      "text": "CANCEL"
+    },
+    {
+      "no": 27,
+      "text": "NEW OK"
+    },
+    {
+      "no": 28,
+      "text": "ေနာက္ထပ္လား (?)"
+    },
+    {
+      "no": 29,
+      "text": "လံုးဝ မရေတာ့ပါ။"
+    },
+    {
+      "no": 30,
+      "text": "#ေဟာ့ေ႐ွာ့"
+    },
+    {
+      "no": 31,
+      "text": "​ေက်းဇူးျပဳၿပီး Message ပို႔ရင္ ( )ထပ္မထည့္ပါနဲ႔ေတာ့။"
+    },
+    {
+      "no": 32,
+      "text": "မွား​ေနတယ္​"
+    },
+    {
+      "no": 33,
+      "text": " =  OK"
+    },
+    {
+      "no": 34,
+      "text": "ဒီတစ္ႀကိမ္ အတြက္ ပို႔ထားတာ မရိွဘူးေနာ္။"
+    },
+    {
+      "no": 35,
+      "text": "ထိပ္စီး (10) ကြက္"
+    },
+    {
+      "no": 36,
+      "text": "ဂဏန္းတစ္လံုး၏ ပါဝါ နကၡတ္ အကြက္(20)"
+    },
+    {
+      "no": 37,
+      "text": "အေခြ အပူးမပါ"
+    },
+    {
+      "no": 38,
+      "text": "ဂဏန္းေဟာင္း ဝယ္ေပးပါ။"
+    },
+    {
+      "no": 39,
+      "text": "#မရေတာ့ပါ"
+    },
+    {
+      "no": 40,
+      "text": "#ကုန္ဂဏန္း"
+    },
+    {
+      "no": 41,
+      "text": "အပူး(10)ကြက္"
+    },
+    {
+      "no": 42,
+      "text": "မနက္ပိုင္း(12:15)ထိၾကည့္မည္ ေနာက္ပိုင္းမဆိုင္ေတာ့ပါ။"
+    },
+    {
+      "no": 44,
+      "text": "http://www.settrade.com/settrade/#/home"
+    },
+    {
+      "no": 45,
+      "text": "( ) ကြက္"
+    },
+    {
+      "no": 46,
+      "text": "(မျဖတ္ခင္)"
+    },
+    {
+      "no": 47,
+      "text": "*Final*"
+    },
+    {
+      "no": 48,
+      "text": "3000 .. Over"
+    },
+    {
+      "no": 49,
+      "text": "ဘရိတ္မပါ..."
+    },
+    {
+      "no": 50,
+      "text": "တိုက္႐ိုက္ဝယ္ ... "
+    },
+    {
+      "no": 51,
+      "text": "Group - "
+    },
+    {
+      "no": 52,
+      "text": ".. ဆက္ရန္ .."
+    },
+    {
+      "no": 53,
+      "text": "ေနာက္က သုံည ၂ လံုး  ျဖဳတ္ေပးပါ"
+    },
+    {
+      "no": 54,
+      "text": "ေက်းဇူးျပဳၿပီး copy ျပန္ပို႔ေပးပါ"
+    },
+    {
+      "no": 55,
+      "text": "Please Copy"
+    },
+    {
+      "no": 56,
+      "text": "3.D Number"
+    },
+    {
+      "no": 57,
+      "text": "50%  BUY"
+    },
+    {
+      "no": 58,
+      "text": "မနက္မွ စာရင္းတိုက္ပါရေစ"
+    },
+    {
+      "no": 59,
+      "text": "Please Wait"
+    },
+    {
+      "no": 61,
+      "text": "လက္က်န္ "
+    },
+    {
+      "no": 62,
+      "text": "အခ်ဳပ္ KQ(+/-)="
+    },
+    {
+      "no": 63,
+      "text": "၂ခုေပါင္း အခ်ဳပ္ KQ(+/-)="
+    },
+    {
+      "no": 64,
+      "text": "Computer Teacher 4.11.18"
+    },
+    {
+      "no": 65,
+      "text": "မနက္ဖန္ အလုပ္မ႐ွိဘူး အကို"
+    },
+    {
+      "no": 66,
+      "text": "အမ်ားႀကီး မရပါ"
+    },
+    {
+      "no": 67,
+      "text": "မနက္ပိုင္း ၅၇မိနစ္ ေနာက္ဆံုးပါ ေက်းဇူးပါ"
+    },
+    {
+      "no": 68,
+      "text": "ဒီကိုပို႔ေပးပါေနာ္"
+    },
+    {
+      "no": 69,
+      "text": "111"
+    },
+    {
+      "no": 70,
+      "text": "ရတာျပန္ပို႔တယ္"
+    },
+    {
+      "no": 71,
+      "text": "Close"
+    }
+  ],
+  "groups": [
+    {
+      "name": "0+",
+      "rows": [
+        {
+          "code": "0+",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "91+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "73+",
+          "amount": "1"
+        },
+        {
+          "code": "55",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "28+",
+          "amount": "1"
+        },
+        {
+          "code": "37+",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "1+",
+      "rows": [
+        {
+          "code": "1+",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        },
+        {
+          "code": "29+",
+          "amount": "1"
+        },
+        {
+          "code": "38+",
+          "amount": "1"
+        },
+        {
+          "code": "47+",
+          "amount": "1"
+        },
+        {
+          "code": "56+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "2+",
+      "rows": [
+        {
+          "code": "2+",
+          "amount": "1"
+        },
+        {
+          "code": "74+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        },
+        {
+          "code": "90+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "93+",
+          "amount": "1"
+        },
+        {
+          "code": "94+",
+          "amount": "1"
+        },
+        {
+          "code": "39+",
+          "amount": "1"
+        },
+        {
+          "code": "48+",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "11",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "3+",
+      "rows": [
+        {
+          "code": "3+",
+          "amount": "1"
+        },
+        {
+          "code": "85+",
+          "amount": "1"
+        },
+        {
+          "code": "24+",
+          "amount": "1"
+        },
+        {
+          "code": "29+",
+          "amount": "1"
+        },
+        {
+          "code": "04+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "85+",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "12+",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "58+",
+          "amount": "1"
+        },
+        {
+          "code": "67+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "4+",
+      "rows": [
+        {
+          "code": "4+",
+          "amount": "1"
+        },
+        {
+          "code": "92+",
+          "amount": "1"
+        },
+        {
+          "code": "35+",
+          "amount": "1"
+        },
+        {
+          "code": "39+",
+          "amount": "1"
+        },
+        {
+          "code": "08+",
+          "amount": "1"
+        },
+        {
+          "code": "03+",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        },
+        {
+          "code": "30+",
+          "amount": "1"
+        },
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "98+",
+          "amount": "1"
+        },
+        {
+          "code": "98+",
+          "amount": "1"
+        },
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "86+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "59+",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "5+",
+      "rows": [
+        {
+          "code": "5+",
+          "amount": "1"
+        },
+        {
+          "code": "03+",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "14+",
+          "amount": "1"
+        },
+        {
+          "code": "23+",
+          "amount": "1"
+        },
+        {
+          "code": "69+",
+          "amount": "1"
+        },
+        {
+          "code": "78+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "6+",
+      "rows": [
+        {
+          "code": "6+",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "59+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "97+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "90+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "15+",
+          "amount": "1"
+        },
+        {
+          "code": "24+",
+          "amount": "1"
+        },
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "7+",
+      "rows": [
+        {
+          "code": "7+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        },
+        {
+          "code": "69+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "16+",
+          "amount": "1"
+        },
+        {
+          "code": "25+",
+          "amount": "1"
+        },
+        {
+          "code": "34+",
+          "amount": "1"
+        },
+        {
+          "code": "89+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "8+",
+      "rows": [
+        {
+          "code": "8+",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "43+",
+          "amount": "1"
+        },
+        {
+          "code": "43+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        },
+        {
+          "code": "17+",
+          "amount": "1"
+        },
+        {
+          "code": "26+",
+          "amount": "1"
+        },
+        {
+          "code": "35+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "9+",
+      "rows": [
+        {
+          "code": "9+",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        },
+        {
+          "code": "89+",
+          "amount": "1"
+        },
+        {
+          "code": "63+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "06+",
+          "amount": "1"
+        },
+        {
+          "code": "60+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "63+",
+          "amount": "1"
+        },
+        {
+          "code": "42+",
+          "amount": "1"
+        },
+        {
+          "code": "42+",
+          "amount": "1"
+        },
+        {
+          "code": "60+",
+          "amount": "1"
+        },
+        {
+          "code": "27+",
+          "amount": "1"
+        },
+        {
+          "code": "18+",
+          "amount": "1"
+        },
+        {
+          "code": "27+",
+          "amount": "1"
+        },
+        {
+          "code": "36+",
+          "amount": "1"
+        },
+        {
+          "code": "45+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "0*",
+      "rows": [
+        {
+          "code": "0*",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "01+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "73+",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "55",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "70+",
+          "amount": "1"
+        },
+        {
+          "code": "05+",
+          "amount": "1"
+        },
+        {
+          "code": "50+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "1*",
+      "rows": [
+        {
+          "code": "1*",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "10+",
+          "amount": "1"
+        },
+        {
+          "code": "11",
+          "amount": "1"
+        },
+        {
+          "code": "11",
+          "amount": "1"
+        },
+        {
+          "code": "16+",
+          "amount": "1"
+        },
+        {
+          "code": "18+",
+          "amount": "1"
+        },
+        {
+          "code": "60+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "2*",
+      "rows": [
+        {
+          "code": "2*",
+          "amount": "1"
+        },
+        {
+          "code": "29+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "21+",
+          "amount": "1"
+        },
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "27+",
+          "amount": "1"
+        },
+        {
+          "code": "90+",
+          "amount": "1"
+        },
+        {
+          "code": "93+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "11",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "24+",
+          "amount": "1"
+        },
+        {
+          "code": "70+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "3*",
+      "rows": [
+        {
+          "code": "3*",
+          "amount": "1"
+        },
+        {
+          "code": "39+",
+          "amount": "1"
+        },
+        {
+          "code": "30+",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "84+",
+          "amount": "1"
+        },
+        {
+          "code": "75+",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "35+",
+          "amount": "1"
+        },
+        {
+          "code": "38+",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "4*",
+      "rows": [
+        {
+          "code": "4*",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        },
+        {
+          "code": "41+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "85+",
+          "amount": "1"
+        },
+        {
+          "code": "76+",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        },
+        {
+          "code": "30+",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        },
+        {
+          "code": "86+",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "42+",
+          "amount": "1"
+        },
+        {
+          "code": "48+",
+          "amount": "1"
+        },
+        {
+          "code": "90+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "5*",
+      "rows": [
+        {
+          "code": "5*",
+          "amount": "1"
+        },
+        {
+          "code": "59+",
+          "amount": "1"
+        },
+        {
+          "code": "50+",
+          "amount": "1"
+        },
+        {
+          "code": "51+",
+          "amount": "1"
+        },
+        {
+          "code": "55",
+          "amount": "1"
+        },
+        {
+          "code": "86+",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "53+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "6*",
+      "rows": [
+        {
+          "code": "6*",
+          "amount": "1"
+        },
+        {
+          "code": "69+",
+          "amount": "1"
+        },
+        {
+          "code": "60+",
+          "amount": "1"
+        },
+        {
+          "code": "61+",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "63+",
+          "amount": "1"
+        },
+        {
+          "code": "87+",
+          "amount": "1"
+        },
+        {
+          "code": "90+",
+          "amount": "1"
+        },
+        {
+          "code": "97+",
+          "amount": "1"
+        },
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "10+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "7*",
+      "rows": [
+        {
+          "code": "7*",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "70+",
+          "amount": "1"
+        },
+        {
+          "code": "71+",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "73+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "07+",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "72+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "8*",
+      "rows": [
+        {
+          "code": "8*",
+          "amount": "1"
+        },
+        {
+          "code": "89+",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        },
+        {
+          "code": "81+",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "86+",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "83+",
+          "amount": "1"
+        },
+        {
+          "code": "84+",
+          "amount": "1"
+        },
+        {
+          "code": "30+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "9*",
+      "rows": [
+        {
+          "code": "9*",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "27+",
+          "amount": "1"
+        },
+        {
+          "code": "60+",
+          "amount": "1"
+        },
+        {
+          "code": "63+",
+          "amount": "1"
+        },
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "9+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "40+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "War Nam",
+      "rows": [
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "98+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "34+",
+          "amount": "1"
+        },
+        {
+          "code": "42+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "WN",
+      "rows": [
+        {
+          "code": "98+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "34+",
+          "amount": "1"
+        },
+        {
+          "code": "42+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "0/pwnn",
+      "rows": [
+        {
+          "code": "00",
+          "amount": "1"
+        },
+        {
+          "code": "55",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "1/pwnn",
+      "rows": [
+        {
+          "code": "38+",
+          "amount": "1"
+        },
+        {
+          "code": "29+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "2/pwnn",
+      "rows": [
+        {
+          "code": "11",
+          "amount": "1"
+        },
+        {
+          "code": "66",
+          "amount": "1"
+        },
+        {
+          "code": "48+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "3/pwnn",
+      "rows": [
+        {
+          "code": "49+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "4/pwnn",
+      "rows": [
+        {
+          "code": "22",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "5/pwnn",
+      "rows": [
+        {
+          "code": "05+",
+          "amount": "1"
+        },
+        {
+          "code": "69+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "6/pwnn",
+      "rows": [
+        {
+          "code": "33",
+          "amount": "1"
+        },
+        {
+          "code": "88",
+          "amount": "1"
+        },
+        {
+          "code": "24+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "7/pwnn",
+      "rows": [
+        {
+          "code": "16+",
+          "amount": "1"
+        },
+        {
+          "code": "07+",
+          "amount": "1"
+        },
+        {
+          "code": "07+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "8/pwnn",
+      "rows": [
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "35+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "9/pwnn",
+      "rows": [
+        {
+          "code": "27+",
+          "amount": "1"
+        },
+        {
+          "code": "18+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/0",
+      "rows": [
+        {
+          "code": "/0",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "91+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/1",
+      "rows": [
+        {
+          "code": "/1",
+          "amount": "1"
+        },
+        {
+          "code": "10",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/2",
+      "rows": [
+        {
+          "code": "/2",
+          "amount": "1"
+        },
+        {
+          "code": "20",
+          "amount": "1"
+        },
+        {
+          "code": "74+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/3",
+      "rows": [
+        {
+          "code": "/3",
+          "amount": "1"
+        },
+        {
+          "code": "30",
+          "amount": "1"
+        },
+        {
+          "code": "85+",
+          "amount": "1"
+        },
+        {
+          "code": "24+",
+          "amount": "1"
+        },
+        {
+          "code": "29+",
+          "amount": "1"
+        },
+        {
+          "code": "04+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/4",
+      "rows": [
+        {
+          "code": "/4",
+          "amount": "1"
+        },
+        {
+          "code": "40",
+          "amount": "1"
+        },
+        {
+          "code": "92+",
+          "amount": "1"
+        },
+        {
+          "code": "35+",
+          "amount": "1"
+        },
+        {
+          "code": "39+",
+          "amount": "1"
+        },
+        {
+          "code": "08+",
+          "amount": "1"
+        },
+        {
+          "code": "03+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/5",
+      "rows": [
+        {
+          "code": "/5",
+          "amount": "1"
+        },
+        {
+          "code": "50",
+          "amount": "1"
+        },
+        {
+          "code": "03+",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/6",
+      "rows": [
+        {
+          "code": "/6",
+          "amount": "1"
+        },
+        {
+          "code": "60",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "59+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/7",
+      "rows": [
+        {
+          "code": "/7",
+          "amount": "1"
+        },
+        {
+          "code": "70",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        },
+        {
+          "code": "69+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/8",
+      "rows": [
+        {
+          "code": "/8",
+          "amount": "1"
+        },
+        {
+          "code": "80",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "04+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/9",
+      "rows": [
+        {
+          "code": "/9",
+          "amount": "1"
+        },
+        {
+          "code": "90",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        },
+        {
+          "code": "89+",
+          "amount": "1"
+        },
+        {
+          "code": "63+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "06+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "0/",
+      "rows": [
+        {
+          "code": "0/",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "91+",
+          "amount": "1"
+        },
+        {
+          "code": "99",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "1/",
+      "rows": [
+        {
+          "code": "1/",
+          "amount": "1"
+        },
+        {
+          "code": "01",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "2/",
+      "rows": [
+        {
+          "code": "2/",
+          "amount": "1"
+        },
+        {
+          "code": "02",
+          "amount": "1"
+        },
+        {
+          "code": "74+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "3/",
+      "rows": [
+        {
+          "code": "3/",
+          "amount": "1"
+        },
+        {
+          "code": "03",
+          "amount": "1"
+        },
+        {
+          "code": "85+",
+          "amount": "1"
+        },
+        {
+          "code": "24+",
+          "amount": "1"
+        },
+        {
+          "code": "29+",
+          "amount": "1"
+        },
+        {
+          "code": "04+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "4/",
+      "rows": [
+        {
+          "code": "4/",
+          "amount": "1"
+        },
+        {
+          "code": "04",
+          "amount": "1"
+        },
+        {
+          "code": "92+",
+          "amount": "1"
+        },
+        {
+          "code": "35+",
+          "amount": "1"
+        },
+        {
+          "code": "39+",
+          "amount": "1"
+        },
+        {
+          "code": "08+",
+          "amount": "1"
+        },
+        {
+          "code": "03+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "5/",
+      "rows": [
+        {
+          "code": "5/",
+          "amount": "1"
+        },
+        {
+          "code": "05",
+          "amount": "1"
+        },
+        {
+          "code": "03+",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        },
+        {
+          "code": "49+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "6/",
+      "rows": [
+        {
+          "code": "6/",
+          "amount": "1"
+        },
+        {
+          "code": "06",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        },
+        {
+          "code": "57+",
+          "amount": "1"
+        },
+        {
+          "code": "59+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "7/",
+      "rows": [
+        {
+          "code": "7/",
+          "amount": "1"
+        },
+        {
+          "code": "07",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "68+",
+          "amount": "1"
+        },
+        {
+          "code": "69+",
+          "amount": "1"
+        },
+        {
+          "code": "00",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "8/",
+      "rows": [
+        {
+          "code": "8/",
+          "amount": "1"
+        },
+        {
+          "code": "08",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        },
+        {
+          "code": "04+",
+          "amount": "1"
+        },
+        {
+          "code": "44",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "9/",
+      "rows": [
+        {
+          "code": "9/",
+          "amount": "1"
+        },
+        {
+          "code": "09",
+          "amount": "1"
+        },
+        {
+          "code": "46+",
+          "amount": "1"
+        },
+        {
+          "code": "80+",
+          "amount": "1"
+        },
+        {
+          "code": "89+",
+          "amount": "1"
+        },
+        {
+          "code": "63+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "06+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "**",
+      "rows": [
+        {
+          "code": "**",
+          "amount": "1"
+        },
+        {
+          "code": "54+",
+          "amount": "1"
+        },
+        {
+          "code": "58+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "04+",
+          "amount": "1"
+        },
+        {
+          "code": "07+",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "/*",
+      "rows": [
+        {
+          "code": "/*",
+          "amount": "1"
+        },
+        {
+          "code": "72+",
+          "amount": "1"
+        },
+        {
+          "code": "79+",
+          "amount": "1"
+        },
+        {
+          "code": "02+",
+          "amount": "1"
+        },
+        {
+          "code": "09+",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "92+",
+          "amount": "1"
+        },
+        {
+          "code": "48+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "//",
+      "rows": [
+        {
+          "code": "//",
+          "amount": "1"
+        },
+        {
+          "code": "15+",
+          "amount": "1"
+        },
+        {
+          "code": "06+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "07+",
+          "amount": "1"
+        },
+        {
+          "code": "13+",
+          "amount": "1"
+        },
+        {
+          "code": "20+",
+          "amount": "1"
+        },
+        {
+          "code": "72+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "*/",
+      "rows": [
+        {
+          "code": "*/",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "-/",
+      "rows": [
+        {
+          "code": "*/",
+          "amount": "1"
+        },
+        {
+          "code": "31+",
+          "amount": "1"
+        },
+        {
+          "code": "19+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "N",
+      "rows": [
+        {
+          "code": "n",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        },
+        {
+          "code": "72+",
+          "amount": "1"
+        }
+      ]
+    },
+    {
+      "name": "*",
+      "rows": [
+        {
+          "code": "n",
+          "amount": "1"
+        },
+        {
+          "code": "77",
+          "amount": "1"
+        }
+      ]
+    }
+  ],
+  "quickSeeds": {
+    "tmpBetPar100": [
+      "00",
+      "11",
+      "22",
+      "33",
+      "44",
+      "55",
+      "66",
+      "77",
+      "88",
+      "99"
+    ],
+    "tmpBetPow100": [
+      "05",
+      "50",
+      "16",
+      "61",
+      "27",
+      "72",
+      "38",
+      "83",
+      "49",
+      "94"
+    ],
+    "tmpCarryPar50": [
+      "00",
+      "11",
+      "22",
+      "33",
+      "44",
+      "55",
+      "66",
+      "77",
+      "88",
+      "99"
+    ]
+  },
+  "notes": "Fighter 3 rate in MDB is 80250 (anomaly) - normalized to 80 here. Fighter/Owner names are all empty in the MDB. Groups: 465 rows across 61 packs; pack rows are typed codes (e.g. 57+) with amount 1 in the MDB."
+}

@@ -1,0 +1,22 @@
+{
+  "description": "Shared core logic for the EASY 2D lottery rebuild: shorthand code expansion, settlement, 00-99 board / over-limit, clipboard text, and seed data. Faithful port of ModTran.cs / MDIMain.cs from the decompiled EASY v5.5.1 (VB.NET) app.",
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^5.9.3"
+  },
+  "exports": {
+    ".": {
+      "default": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "main": "dist/index.js",
+  "name": "easy2d-shared",
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run build && node --test \"dist/*.test.js\""
+  },
+  "type": "module",
+  "types": "dist/index.d.ts",
+  "version": "0.1.0"
+}

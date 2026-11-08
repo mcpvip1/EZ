@@ -1,0 +1,1 @@
+{"description":"Local-only sync hub for the EASY 2D lottery rebuild. Zero dependencies, Node 18+.","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"easy2d-sync-server","private":true,"scripts":{"start":"node server.js","test":"node test.mjs"},"type":"module","version":"1.0.0"}

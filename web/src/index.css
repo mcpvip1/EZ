@@ -1,0 +1,83 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * One visual system for the whole app (UI/UX upgrade, 2026-11-08).
+ * Before this, buttons/dialogs/inputs each had their own ad-hoc classes
+ * (~6 button styles, 3 dialog shells). New code uses these classes:
+ *   .btn + .btn-primary / .btn-amber / .btn-teal / .btn-dark /
+ *   .btn-danger / .btn-ghost / .btn-outline (+ .btn-sm for dense rows)
+ *   .card (main screen) / .card-pad (popups)
+ *   .input / .input-yellow (the original's yellow entry boxes)
+ * Tap targets are at least 44px tall (.btn min-height). Dense row buttons
+ * use .btn-sm (36px on desktop, where the operator has a mouse/keyboard)
+ * but grow back to 44px on tablet widths (<=1023px), where they are
+ * tapped. Every control gets a visible keyboard-focus ring via
+ * :focus-visible below.
+ */
+@layer components {
+  .btn {
+    @apply inline-flex min-h-[44px] select-none items-center justify-center gap-1 rounded-lg px-4 py-2 text-sm font-bold transition-colors;
+  }
+  .btn-primary {
+    @apply bg-indigo-600 text-white hover:bg-indigo-700;
+  }
+  .btn-amber {
+    @apply bg-amber-600 text-white hover:bg-amber-700;
+  }
+  .btn-teal {
+    @apply bg-teal-600 text-white hover:bg-teal-700;
+  }
+  .btn-dark {
+    @apply bg-slate-800 text-white hover:bg-slate-900;
+  }
+  .btn-danger {
+    @apply bg-red-600 text-white hover:bg-red-700;
+  }
+  .btn-ghost {
+    @apply bg-slate-200 text-slate-700 hover:bg-slate-300;
+  }
+  .btn-outline {
+    @apply border border-slate-300 bg-white text-slate-700 hover:bg-slate-100;
+  }
+  .btn-sm {
+    @apply min-h-[36px] px-3 py-1.5 text-xs;
+  }
+  /* Tablet and below: dense buttons are tapped, so they get the full
+   * 44px target too (menu bar, Order/Browse, row Edit/Del). */
+  @media (max-width: 1023px) {
+    .btn-sm {
+      @apply min-h-[44px] px-3 py-2 text-sm;
+    }
+  }
+  .btn:disabled {
+    @apply cursor-not-allowed opacity-50;
+  }
+  .card {
+    @apply rounded-lg border bg-white shadow-sm;
+  }
+  .card-pad {
+    @apply rounded-2xl border bg-white p-4 shadow-sm;
+  }
+  .input {
+    @apply rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm;
+  }
+  .input-yellow {
+    @apply rounded border border-yellow-500 bg-yellow-100 px-2 py-2 text-base font-bold;
+  }
+}
+
+/* Visible keyboard-focus ring on every control (was invisible before —
+ * keyboard operators could not see where focus was). */
+:focus-visible {
+  outline: 2px solid #4f46e5;
+  outline-offset: 2px;
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: white !important; }
+  .print-area { box-shadow: none !important; border: none !important; }
+}
